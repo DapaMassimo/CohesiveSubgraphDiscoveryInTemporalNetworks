@@ -1,5 +1,5 @@
 Code implementation of algorithms described in:
-(9 April 2021) "Cohesive subgraph discovery in temporal networks", undergrad thesis of Massimo D'Apa.
+"Cohesive subgraph discovery in temporal networks", undergrad thesis of Massimo D'Apa.
 -------------------------------------------------------------------------------------------------------------
 The 'data' folder contains the real-world datasets used to test the algorithms
 -------------------------------------------------------------------------------------------------------------
